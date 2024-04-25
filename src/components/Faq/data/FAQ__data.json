@@ -1,0 +1,18 @@
+[
+  {
+    "question": "How many members are allowed in the team?",
+    "answer": "4 members"
+  },
+  {
+    "question": "Is there a registration fee for this hackathon?",
+    "answer": "No, this hackathon is open to all for free"
+  },
+  {
+    "question": "Is it required for all the members of the team to be from the same college?",
+    "answer": "No, participants of a team can be from different colleges"
+  },
+  {
+    "question": "Will the hackathon be online or offline?",
+    "answer": "The hackathon will be in Hybrid mode"
+  }
+]

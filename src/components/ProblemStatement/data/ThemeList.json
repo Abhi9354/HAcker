@@ -1,0 +1,65 @@
+[
+  {
+    "frontImage": "src/components/ProblemStatement/data/images/vecteezy_vertical-creative-education-background-with-school-stuffs_10826166-1.jpg",
+    "frontText": "Education",
+    "backText": [
+      "The hackathon is aimed at addressing COVID-19-related challenges in education, with a focus on solutions for digital fluency, tailored learning, and psychological well-being support, all while ensuring practicality, expandability, endurance, and cultural awareness."
+    ]
+  },
+  {
+    "frontImage": "https://inc42.com/wp-content/uploads/2023/01/fintech-feature-4-760x570.png",
+    "frontText": "Fintech",
+    "backText": [
+      "HackBlocks's Fintech track prioritizes revolutionizing finance on a worldwide scale by pioneering advancements in financial access, electronic transactions, regulatory adherence, and eco-conscious finance, underscoring the capacity of financial technology to redefine the future of the monetary industry."
+    ]
+  },
+  {
+    "frontImage": "https://mitsloan.mit.edu/sites/default/files/styles/one_up/public/2024-03/impact-investing.png?h=639d77e4&itok=YeuRaUVp",
+    "frontText": "Sustainability",
+    "backText": [
+      "The hackathon advocates for economic advancement in tandem with environmental and social resilience by fostering inventive approaches for eco-friendly transportation, renewable energy, and conscientious consumption, with a focus on ingenuity, viability, and influence."
+    ]
+  },
+  {
+    "frontImage": "https://img.freepik.com/premium-photo/robot-portraits-holding-business-growth-graph-shining-hologram-glowing-blue-background-vertical-style-futuristic-ai-with-digital-management-artificial-intelligence-service-technology-concept_36367-8336.jpg?w=360",
+    "frontText": "Artificial Intelligence",
+    "backText": [
+      "The AI track delves into machine intelligence, linguistic comprehension, automated systems, and morally conscious AI implementations, enabling participants to craft state-of-the-art solutions that enhance effectiveness, decision-making processes, and client interactions spanning various sectors."
+    ]
+  },
+  {
+    "frontImage": "https://cdn.pixabay.com/photo/2021/10/09/13/52/hacking-6694207_1280.png",
+    "frontText": "Cyber Security",
+    "backText": [
+      "The Cybersecurity track delves into network protection, data encryption, threat detection, and ethical hacking techniques, empowering participants to engineer innovative solutions that fortify digital defenses, safeguard sensitive information, and mitigate cyber threats across diverse sectors."
+    ]
+  },
+  {
+    "frontImage": "src/components/ProblemStatement/data/images/Blockchain.jpg",
+    "frontText": "Block Chain",
+    "backText": [
+      "The Blockchain track delves into distributed ledger technology, smart contracts, decentralized finance, and transparent governance models, empowering participants to develop pioneering solutions that enhance data integrity, streamline transactions, and revolutionize trust mechanisms across various industries."
+    ]
+  },
+  {
+    "frontImage": "https://cdn.pixabay.com/photo/2020/11/10/08/17/man-5728883_1280.png",
+    "frontText": "Tourism and Culture",
+    "backText": [
+      "HackBlocks's initiative integrates tackling tourism obstacles with preserving India's rich cultural heritage through immersive virtual encounters, language initiatives, and community bonds, striving to enrich experiences while safeguarding the country's multifaceted cultural inheritance."
+    ]
+  },
+  {
+    "frontImage": "https://www.healthcareradius.in/cloud/2021/11/15/Picture1-27.jpg",
+    "frontText": "HealthCare",
+    "backText": [
+      "The Healthcare track tackles pressing matters within India's healthcare domain, aiming to discover inventive remedies to improve the accessibility, affordability, and caliber of healthcare provisions. It specifically concentrates on harnessing virtual healthcare and artificial intelligence (AI) technologies to advance the sector."
+    ]
+  },
+  {
+    "frontImage": "https://cdn.pixabay.com/photo/2022/03/06/09/01/light-bulb-7051160_1280.png",
+    "frontText": "Open innovation",
+    "backText": [
+      "This track motivates budding engineers to tackle tangible industrial challenges in fields such as automotive technology, consumer electronics, and sports innovation, affording them a platform to demonstrate their expertise and ingenuity."
+    ]
+  }
+]
