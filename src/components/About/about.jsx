@@ -1,5 +1,4 @@
 import "./about.css";
-import {img} from "../../../public/images/computer.png"
 
 const AboutSection = () => {
   return (
@@ -34,7 +33,7 @@ const AboutSection = () => {
           </p> */}
         </div>
         <div className="about-right-section">
-          <img src={img} alt="img" className="hackathon-image" />
+          <img src="../../../public/images/computer.png" alt="img" className="hackathon-image" />
         </div>
       </div>
     </div>
