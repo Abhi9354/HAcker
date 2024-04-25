@@ -1,4 +1,5 @@
 import "./about.css";
+import {img} from "../../../public/images/computer.png"
 
 const AboutSection = () => {
   return (
@@ -33,7 +34,7 @@ const AboutSection = () => {
           </p> */}
         </div>
         <div className="about-right-section">
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNyZmFlc3dybm16a29sejdibWgyZDYwZHZsdjNsM2o4Ymtvczk4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="img" className="hackathon-image" />
+          <img src={img} alt="img" className="hackathon-image" />
         </div>
       </div>
     </div>
