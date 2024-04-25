@@ -1,5 +1,3 @@
-import React from "react";
-import aboutImg from "./assets/—Pngtree—computer hacker_5418075.png";
 import "./about.css";
 
 const AboutSection = () => {
