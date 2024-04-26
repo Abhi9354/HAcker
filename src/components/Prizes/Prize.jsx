@@ -19,6 +19,7 @@ const Prize = () => {
             </div>
           </div>
         ))}
+        
       </main>
     </div>
   );
